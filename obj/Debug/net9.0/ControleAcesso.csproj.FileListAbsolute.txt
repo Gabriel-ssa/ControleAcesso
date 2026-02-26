@@ -1,0 +1,14 @@
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\bin\Debug\net9.0\ControleAcesso.exe
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\bin\Debug\net9.0\ControleAcesso.deps.json
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\bin\Debug\net9.0\ControleAcesso.runtimeconfig.json
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\bin\Debug\net9.0\ControleAcesso.dll
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\bin\Debug\net9.0\ControleAcesso.pdb
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.AssemblyInfoInputs.cache
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.AssemblyInfo.cs
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.dll
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\refint\ControleAcesso.dll
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.pdb
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ControleAcesso.genruntimeconfig.cache
+C:\Users\ead_dev\Documents\Gabriel_Almeida\ControleAcesso\obj\Debug\net9.0\ref\ControleAcesso.dll
